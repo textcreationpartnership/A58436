@@ -1,0 +1,270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Relation of the bloody massacre in Ireland acted by the instigation of the Jesuits, priests, and friars who were promoters of those horrible murders, prodigious cruelties, barbarous villanies, and inhuman practices executed by the Irish papists upon the English Protestants with an account of the Spanish Inquisition.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58436</idno>
+            <idno type="STC">Wing R817</idno>
+            <idno type="STC">ESTC R6131</idno>
+            <idno type="EEBO-CITATION">13697766</idno>
+            <idno type="OCLC">ocm 13697766</idno>
+            <idno type="VID">101441</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58436)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101441)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 848:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Relation of the bloody massacre in Ireland acted by the instigation of the Jesuits, priests, and friars who were promoters of those horrible murders, prodigious cruelties, barbarous villanies, and inhuman practices executed by the Irish papists upon the English Protestants with an account of the Spanish Inquisition.</title>
+               </titleStmt>
+               <extent>7, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rowland Reynolds,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inquisition --  Spain --  Early works to 1800.</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101441:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:101441:1" rendition="simple:additions"/>
+            <head>A RELATION OF THE Bloody Maſſacre IN IRELAND; Acted by the Inſtigation of the <hi>Jeſuits, Prieſts,</hi> and <hi>Friars,</hi> who were Promoters of thoſe Horrible Murders, Pro<g ref="char:EOLhyphen"/>digeous Cruelties, Barbarous Villanies, and Inhuman Practices Executed by the <hi>Iriſh Papiſts</hi> upon the <hi>Engliſh Proteſtants:</hi> With an Account of the <hi>Spaniſh Inquiſition.</hi>
+            </head>
+            <p>
+               <hi>Licenſed</hi> Decem. 23.</p>
+            <p>WHen their Plots were ripe for Execution, we find their firſt proceedings againſt the <hi>Engliſh</hi> various; ſome of the <hi>Iriſh</hi> only ſtripping and expelling them; others murdering Men, Women, and Children without mercy; all reſolving univer<g ref="char:EOLhyphen"/>ſally to root out all the <hi>Proteſtants</hi> of <hi>Ireland:</hi> ſo deeply malicious were they a<g ref="char:EOLhyphen"/>gainſt the <hi>Engliſh Proteſtants,</hi> that they would not ſo much as endure the ſound of their Language.</p>
+            <p>The Prieſts gave the Sacrament unto divers of the <hi>Iriſh,</hi> upon condition they ſhould neither ſpare Man, Woman, nor Child of the <hi>Proteſtants.</hi> One <hi>Hulligan</hi> a Prieſt, read an Excommu<g ref="char:EOLhyphen"/>nication
+<pb facs="tcp:101441:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:101441:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:101441:3"/>againſt all thoſe, that from henceforth ſhould relieve or harbour any <hi>Engliſh, Scottiſh,</hi> or <hi>Welch</hi>-man, or give them alms, whereby many were Famiſhed to dearth. The Friars exhorted them with Tears, not to ſpare any of the <hi>Engliſh.</hi>
+            </p>
+            <p>The day before this Maſſacre began, <hi>Anno,</hi> 1642. the Prieſts gave the People a diſmiſs at Maſs, with liberty to go out, and take poſſeſſion of all their Lands, as alſo to ſtrip, and rob, and deſpoil them of all their goods and cattle.</p>
+            <p>The <hi>Iriſh,</hi> when this Maſſacre began, perſwaded many of their <hi>Proteſtant</hi> Neighbours to bring their Goods to them, and they would ſecure them, and hereby they got abundance peaceably into their hands, whereof they cheated the <hi>Proteſtants,</hi> refuſing to reſtore them again; yet ſo confident were the <hi>Proteſtants</hi> at firſt of them, that they gave them Inventories of all they had, and digged up their beſt things that were hidden in the ground, and depoſited them in their Cuſtody. They alſo got much into their hands by fair Promiſes, deep Oaths and En<g ref="char:EOLhyphen"/>gagements, that if they would deliver them their goods, they would ſuffer them, with their Wives and Children, quietly to depart the Country; and when they had got what they could, they afterwards murdered them.</p>
+            <p>Having thus ſeized upon their goods and cattel, ranſackt their houſes, got their perſons, ſtript Man, Woman, and Child naked, and ſo turned them out of doors, ſtrictly prohibiting the <hi>Iriſh</hi> under great penalties, not to give them any relief; by means hereof many miſerably periſht through cold, nakedneſs, and hunger,</p>
+            <p>In the Town of <hi>Coleraine,</hi> many of theſe poor people that fled thither for ſuccour, many thou<g ref="char:EOLhyphen"/>ſands died in two days, ſo that the living could not bury the dead, but laid their Carcaſſes in ranks in vaſt and wide holes, piling them up as if they had been Herrings.</p>
+            <p>One <hi>Magdalen Redman</hi> depoſeth, that ſhe, and divers other <hi>Proteſtants,</hi> amongſt whom were two and twenty Widows, were firſt robbed, and then ſtript Naked, and when they had cover<g ref="char:EOLhyphen"/>ed themſelves with Straw, the bloody <hi>Papiſts</hi> threw in burning ſtraw amongſt them, on purpoſe to burn them; then they drove them out into the Woods in Froſt and Snow, where many of them died with extream Cold, and thoſe that ſurvived, lived miſerably by reaſon of their many wants.</p>
+            <p>Yet though thoſe bloody Villains exerciſed ſuch inhumane Cruelties towards the poor <hi>Pro<g ref="char:EOLhyphen"/>testants,</hi> they would commonly boaſt, <hi>That theſe were but the beginning of their ſorrows,</hi> for in<g ref="char:EOLhyphen"/>deed they made it good; for having diſarmed the <hi>Engliſh,</hi> robbed them of their Goods, ſtript them of their Cloths, and having their Perſons in their power, they furiouſly broke out into all manner of abominable Cruelties, horrid Maſſacres, and execrable Murders.</p>
+            <p>For their were multitudes Murdered in cold Blood, ſome as they were at Plough, others in their Houſes, others in the High-ways; all without any provocation, were ſuddenly de<g ref="char:EOLhyphen"/>ſtroyed.</p>
+            <p>In the Caſtle of <hi>Liſgoole,</hi> were about one hundred and fifty Men, Women and Children con<g ref="char:EOLhyphen"/>ſumed with Fire. At the Caſtle of <hi>Tullah,</hi> which was delivered to <hi>Mac Guire,</hi> upon compofiti<g ref="char:EOLhyphen"/>on, and faithful promiſes of fair quarter, as ſoon as he and his entered, they began to ſtrip the People, and moſt cruelly put them to the Sword, Murdering them all without mercy.</p>
+            <p>At <hi>Liſſenskeath,</hi> they Hanged and Killed above one hundred of the <hi>Scottiſh Proteſtants.</hi> In the Counties of <hi>Armagh</hi> and <hi>Tyrone,</hi> where the <hi>Protestants</hi> were more numerous, their Murthers were more multiplied, and with greater cruelty.</p>
+            <p>
+               <hi>Mac Guire</hi> coming to the Caſtle of <hi>Liſſenskeath,</hi> deſired to ſpeak with Mr. <hi>Middleton,</hi> who ad<g ref="char:EOLhyphen"/>mitted him in, he firſt burnt the Records of the County, then demanded one thouſand Pounds which was in his cuſtody of Sir <hi>William Balfores,</hi> which as ſoon as he had, he cauſed Mr. <hi>Middle<g ref="char:EOLhyphen"/>ton</hi> to hear Maſs, and to ſwear that he would never alter from it, and then Hanged him up with his Wife and Children; Hanging and Murdering above one hundred Perſons beſides in that place</p>
+            <p>At <hi>Portendown-Bridg,</hi> there were One thouſand Men, Women, and Children, carried in ſeveral Companies, and all unmercifully drowned in the River. Yea, in that Country there were four thouſand perſons drowned in ſeveral places.</p>
+            <p>Some aged Men and Women, theſe barbarous <hi>Papiſts</hi> inforced their own Children to drown them; yea, ſome Children were compelled unnaturally to execute their own Parents, Wives
+<pb n="3" facs="tcp:101441:3"/>forced to hang their own Husbands, and Mothers to caſt their own Children into the <hi>Waters,</hi> af<g ref="char:EOLhyphen"/>ter which themſelves were Murthered. In <hi>Sligo</hi> they forced a Young Man to kill his Father, and then hanged him up. In another place they forced a Woman to kill her Husband, then cauſed her Son to kill her, and then hanged the Son; yea ſuch was their malice againſt the <hi>Engliſh</hi> that they taught their Children to kill <hi>Engliſh</hi> Children.</p>
+            <figure>
+               <head>The <hi>Iriſh Rebellion.</hi>
+               </head>
+               <figDesc>depictions of Protestant martyrs during the Irish Rebellion</figDesc>
+               <p>
+                  <figure>
+                     <head>One hundred drown'd in a River. </head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <head>Boys forced to kill the Proteſtants.</head>
+                  </figure>
+               </p>
+            </figure>
+            <p>In one place and hundred and forty <hi>Engliſh</hi> were taken and driven like Cattle for many miles together. Other companies they carried out to a place ſit for execution, and then murdered them. One hundred and fifteen Men, Women, and Children, they ſent with Sir <hi>Philem Oneal</hi>'s Paſs till they came to <hi>Portendown-Bridg,</hi> and there drowned them.</p>
+            <p>At another time One hundred and forty <hi>Proteſtants,</hi> being thrown in at the ſame place, as any of them ſwam to ſhore, the bloody Villains with the But ends of their Muskets knockt out their Brains.</p>
+            <pb n="4" facs="tcp:101441:4"/>
+            <p>At <hi>Armagh, O Cane</hi> got together all the <hi>Protestants</hi> thereabouts, pretending to conduct them to <hi>Coleraine;</hi> but before they were a dayes journey, they were all murdered, and ſo were ma<g ref="char:EOLhyphen"/>ny others, though they had Protections from Sir <hi>Philem Oneal.</hi> The Aged People of <hi>Armagh</hi> were carried to <hi>Charlemont,</hi> and there murdered.</p>
+            <p>Preſently af<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the Town of <hi>Armagh</hi> was burnt, and Five hundred Perſons murdered and drowned. In <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>oman were Forty eight Families Murdered. In one houſe Twenty two <hi>Pro<g ref="char:EOLhyphen"/>teſtants</hi> were burned. In <hi>Kilmore</hi> all the Inhabitants were Stript and Maſſacred, being Two hundred Families; the whole Country was a Common Butchery; many thouſands periſhed by Sword, Famine, Fire, Water and all other cruel Deaths, that rage and malice could invent.</p>
+            <p>At <hi>Caſel</hi> they put all the <hi>Proteſtants</hi> into a loathſome Dungeon, kept them twelve Weeks in great miſery. Some they barbarouſly mangled, and left them languiſhing; ſome they hanged up twice or thrice, others they buried alive.</p>
+            <p>In <hi>Queens</hi> County, an <hi>Engliſh</hi> Man, his Wife, five Children, and a Maid, were all hanged together. At <hi>Clowns</hi> ſeventeen Men were buried alive; ſome were wounded and hanged upon Tenter-hooks.</p>
+            <p>In <hi>Caſtle-Cumber,</hi> Two Boys wounded and hung upon Butchers Tenters. Some hanged up and taken down to confeſs money, and then murdered. Some had their Bellies ript up, and ſo left with their Guts about their Heels.</p>
+            <p>In <hi>Kilkenny,</hi> an <hi>Engliſh</hi> Woman was beaten into a Ditch, where ſhe died; her Child about ſix years old, they ript up her Belly, and let out her Guts. One they forced to Maſs, then they wounded him, ript his Belly, took out his Guts, and ſo left him alive.</p>
+            <p>A <hi>Scottiſh</hi> Man they ſtript and hewed to pieces, ript up his Wifes Belly, ſo that her Child drop out; many other Women they hung up with-Child, ript their Bellies and let their Infants fall out; ſome of the Children they gave to Dogs.</p>
+            <p>In the <hi>County</hi> of <hi>Armagh</hi> they robbed, ſtripped, and murdered abundance of <hi>Proteſtants,</hi> whereof ſome they burned, ſome they ſlew with the <hi>Sword,</hi> ſome they hanged, ſome they ſtar<g ref="char:EOLhyphen"/>ved to death; and meeting Mrs. <hi>Howard,</hi> and Mrs. <hi>Frankland,</hi> with ſix of their Children, and themſelves both with Child, they murdered them all, ript open the Gentlewomens Bellies, took out their Children, and threw them into a Ditch. A young <hi>Scottiſh Womans Child</hi> they took by the heels, and daſh'd out its Brains againſt a Tree; the like they did to many other Children.</p>
+            <p>
+               <hi>Anne Hill,</hi> going with a young Child on her Back, and four more by her ſide, they pulled the Child off her Back, trod on it till it dyed; ſtripped her and the other four Children naked, whereby they dyed of Cold.</p>
+            <p>Some others they met with, hanged them up upon a <hi>Wind-mill,</hi> and before they were <hi>half dead, cut them in pieces with their Skeins.</hi>
+            </p>
+            <p>Many other <hi>Proteſtants,</hi> eſpecially <hi>Women and Children,</hi> they <hi>pricked and ſtabbed with Skeins, Forks, and Swords, ſlaſhing, cutting, and mangling them in their Heads, Faces, Breaſts, Arms,</hi> and other parts, yet killed them not, but left them wallowing in their own Blood to languiſh, ſtarve, and pine to death.</p>
+            <p>The Caſtle of <hi>Liſgoole</hi> being ſat on fire by theſe mercileſs <hi>Papiſts,</hi> a <hi>Woman</hi> leapt out of a Window to ſave her ſelf from burning, whom they preſently <hi>murdered;</hi> many fled to <hi>Vaults</hi> and <hi>Cellars,</hi> were they were all <hi>murder'd.</hi> One <hi>Joan Addis</hi> they ſtabbed, and then put her Child of a quarter old to her Breaſt, and bid it <hi>Suck Engliſh Baſtard,</hi> and ſo left it to periſh.</p>
+            <p>One <hi>Mary Barlow</hi> had her Husband hanged, her ſelf with ſix Children, ſtrip'd naked in <hi>Froſt</hi> and <hi>Snow,</hi> after which ſheltering themſelves in a Cave, they had nothing to eat for three Weeks but two old Calve-Skins, which they beat with ſtones, and ſo eat them hair and all.</p>
+            <p>In the cold weather, many thouſands of <hi>Proteſtants</hi> of all ranks, ages, and ſexes, being turned out naked, periſhed of cold and hunger; thouſands of others were drowned, caſt into <hi>Ditches, Bogs,</hi> and <hi>Turf-pits;</hi> multitudes miſerably burnt in Houſes; ſome that lay ſick of Feavers they hanged up; ſome Men, Women, and Children, they drove into Boggy Pits, and knockt them on the heads.</p>
+            <p>The <hi>Iriſh Trulis</hi> that followed the Camp, cried out, <hi>Kill them all, ſpare neither Man, Woman, nor Child.</hi> They took the Child of <hi>Thomas Stratton,</hi> being about twelve Years old, and boil<g ref="char:EOLhyphen"/>ed him in a Cauldron. One good wiſe <hi>Lin</hi> and her Daughter they carried into a Wood, firſt
+<pb n="5" facs="tcp:101441:4"/>hanged the <hi>Mother,</hi> and then the <hi>Daughter</hi> in the hair of the <hi>Mothers</hi> head.</p>
+            <p>In ſome places they plucked out the Eyes, and cut off the Hands of the <hi>Protestants,</hi> and turned them into the Fields, where they periſhed. The <hi>Women</hi> in ſome places, ſtoned the <hi>Engliſh Wo<g ref="char:EOLhyphen"/>men and Children</hi> to death. One Man they ſhot through his Thighs, digged a hole in the ground, ſet him in upon his Feet, fill'd up the hole, left our only his Head, where he languiſhed to death. Another Man they held his Feet in the fire, till he was burnt to death.</p>
+            <p>In <hi>Munſter</hi> they hanged up many <hi>Miniſters</hi> i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a moſt barbarous manner. One <hi>Miniſter</hi> they ſtripped naked, and drove him through the Town; pricking him with Darts and Rapiers, till he fell down dead.</p>
+            <p>Theſe barbarous Villains vowed, <hi>That if any Parents digged Graves to bury their Children in, they ſhould be buried therein themſelves.</hi> They P<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ped one <hi>William Loverden</hi> naked, then killed him before his <hi>Wife</hi> and <hi>Children.</hi> Divers <hi>Miniſters-bones</hi> that had been buried ſome Years before, they digged up, becauſe they were, as they ſay, <hi>Patrons of Hereſy.</hi>
+            </p>
+            <p>Poor Children that went out into the Fields to eat weeds and graſs, they killed with<g ref="char:EOLhyphen"/>out all pity.</p>
+            <p>In one place they burnt two <hi>Proteſtant Bibles,</hi> and then ſaid, <hi>It was Hell fire they burnt,</hi> Other Bibles they took, cut in pieces, and then burnt them; ſaying, <hi>They would do the like to all</hi> Puritane <hi>Bibles.</hi> They took the Bible of a Miniſter, called Mr. <hi>Edward Slack,</hi> and opening it, they laid it a in puddle of Water; and then ſtamped upon it, ſaying, <hi>A plague on it, this Bible hath bred all the quarrel.</hi>
+            </p>
+            <p>At <hi>Glastow,</hi> a Prieſt, with ſome others, drew about forty <hi>Engliſh</hi> and <hi>Scottiſh Proteſtants</hi> to be reconciled to the Church of <hi>Rome,</hi> and then told them, <hi>They were in a good Faith; and for fear they ſhould fall from it and turn Hereticks,</hi> he with his companions preſently cut all their throats.</p>
+            <p>In the County of <hi>Tipperary,</hi> near the <hi>Silver-works;</hi> ſome of theſe barbarous <hi>Papiſts</hi> met with eleven <hi>Engliſh-men,</hi> ten <hi>Women,</hi> and ſome <hi>Children;</hi> whom they firſt ſtript, and then with <hi>Stones, Pole-axes, Skeins, Swords, &amp;c.</hi> they moſt barbarouſly Maſſacred them all.</p>
+            <p>In the County of <hi>Mayo</hi> about ſixty <hi>Proteſtants,</hi> whereof fifteen were Miniſters, were upon Covenant to be ſafely conveyed to <hi>Galway</hi> by one <hi>Edmond Burk,</hi> and his Souldiers; but by the way, this <hi>Burk</hi> and his company began to Maſſacre theſe poor <hi>Proteſtants;</hi> ſome they ſhot to death, ſome they ſtab'd with their Skeins, ſome they thruſt through with their Pikes, ſome they drowned: The Women they ſtript naked, who lying upon their Husbands to ſave them, were run through with Pikes; ſo that very few of them eſcaped with life.</p>
+            <p>In the Town of <hi>Sligo,</hi> Forty <hi>Protestants</hi> were ſtript and locked up in a Cellar, and about mid<g ref="char:EOLhyphen"/>night a Butcher provided for the purpoſe, was ſent in amongſt them; who with his Axe butcher<g ref="char:EOLhyphen"/>ed them all.</p>
+            <p>In <hi>Tirawly</hi> thirty or forty <hi>Engliſh,</hi> who had yielded to go to Maſs, were put to their choice, <hi>Whether they would die by the Sword or be drowned?</hi> They choſe the latter, and ſo being driven to the Sea-ſide, theſe barbarous Villains, with their naked Swords forced them into the Sea; the <hi>Mo<g ref="char:EOLhyphen"/>thers</hi> with their <hi>Children</hi> in their Arms, wading to the Chin, were overcome by the Waves, where they all periſhed.</p>
+            <p>The Son of Mr. <hi>Montgomery</hi> a Miniſter, aged about fifteen years, met with his <hi>School-maſter,</hi> who drew his Skein at him; whereupon the Boy ſaid, <hi>Good Maſter whip me as much as you will, but do not kill me.</hi> Yet this mercileſs Tiger barbarouſly murthered him without all pity.</p>
+            <p>In the Town of <hi>Sligo,</hi> all the <hi>Proteſtants</hi> were firſt robbed of their Eſtates, then caſt into Goal, and about mid-night were all ſtript naked, and were there moſt cruelly and barbarouſly murthered with Swords, Axes, Skeins, <hi>&amp;c.</hi> Some of them being Women great with Child, their Infants thruſt out their Arms and Legs at their Wounds; after which execrable murthers, theſe Hell<g ref="char:EOLhyphen"/>hounds laid the dead naked bodies of the Men upon the naked bodies of the Women, in a moſt immodeſt poſture; where they left them till the next day to be looked upon by the <hi>Iriſh,</hi> who beheld it with great delight. Alſo <hi>Iſabel Beard,</hi> great with Child, bearing, the lamentable cries of thoſe that were murthering, ran out into the Streets; where ſhe was murthered, and the next day was found with the Childs feet coming out of the Wounds in her ſides: Many others were murthered in the Houſes and Streets.</p>
+            <p>Mr. <hi>Starkey, School-maſter</hi> at <hi>Armagh,</hi> being above one hundred years old, they ſtript him na<g ref="char:EOLhyphen"/>ked,
+<pb n="6" facs="tcp:101441:5"/>then took his two <hi>Daughters,</hi> being Virgins, whom they alſo ſtript naked, and then forced then to lead their aged Father to a <hi>Turf-pit,</hi> where they drowned them all three.</p>
+            <p>To one <hi>Henry Cowl,</hi> a gallant Gentleman, they proffered his life, if he would marry one of their Truils, or go to Maſs, but he choſe death rather than to conſent to either.</p>
+            <p>Many of the <hi>Proteſtants</hi> they buried alive, ſollacing themſelves, whilſt they were digging down old Ditches upon them.</p>
+            <p>They brake the Back-bone of a Youth, and left him in the Fields, ſome days after he was ſound, having eaten the Graſs round about him; neither then would they kill him out-right, but removed him to better Paſture, wherein was fulfilled that ſaying, <hi>The tender mercies of the wicked are cruelty.</hi>
+            </p>
+            <p>In the County of <hi>Antrim,</hi> they murthered Nine hundred fifty four <hi>Proteſtants</hi> in one morning, and afterwards above Twelve hundred more in that County. Near <hi>Liſnegarvey,</hi> they forced Twenty four <hi>Proteſtants</hi> into a Houſe, and burnt them all.</p>
+            <p>Sir <hi>Philem O Neale</hi> boaſted, <hi>That he had ſlain above Six hundred at</hi> Garvah, <hi>and that he had left neither Man, Woman, nor Child alive in that</hi> Barony <hi>of</hi> Munterlong. In other places he murdered above Two thouſand Perſons in their Houſes; ſo that many Houſes were filled with dead bodies.</p>
+            <p>The Lord <hi>Mont Garret,</hi> cauſed divers <hi>Engliſh</hi> Souldiers that had been taken about <hi>Kilkenny,</hi> to be hanged, hardly ſuffering them to pray before their death.</p>
+            <p>One <hi>Fitz Patrick</hi> an <hi>Iriſh</hi> Papiſt, enticed a rich Merchant, that was a <hi>Proteſtant,</hi> to bring all his Goods to his Houſe, promiſing ſafely to keep them, and to re-deliver them to him, but when he had got them into his poſſeſſion, he took the Merchant and his Wife, and hanged them both. The like he did by divers others.</p>
+            <p>Some <hi>Engliſh-mens</hi> Heads they cut off, and carried them to <hi>Kilkenny,</hi> and on the Market-day, ſet them on the Croſs, where many, eſpecially the Women, ſtab'd, cut, and ſlaſhed them.</p>
+            <p>A poor <hi>Proteſtant</hi> Woman, with her two Children, going to <hi>Kilkenny,</hi> theſe bloody Miſcreants baited them with Dogs, ſtabbed them with Skeins, and pulled out the Guts of the Children, whereby they died; and not far off they took divers Men, Women and Children, and hanged them up; one of the Women being great with Child, they ripped up her Belly as ſhe hanged, ſo that the Child fell out in the Cawl alive. Some after they were hanged, they drew up and down till their Bowels were torn out.</p>
+            <p>How many Thouſands of <hi>Proteſtants</hi> were there thus inhumanly butchered, by ſundry kinds of death, we cannot aſcertain.</p>
+            <p>In the Province of <hi>
+                  <g ref="char:V">Ʋ</g>lſter,</hi> we find vaſt numbers murdered, as before; what the number of the ſlain was in the three Provinces. I find not upon Record, but certainly it was very great, for you have theſe paſſages in a general Remonſtrance of the diſtreſſed <hi>Proteſtants</hi> in the Province of <hi>Munſter. We may</hi> (ſay they) <hi>compare our woe to the ſaddeſt parallel of any Story: Our Churches are prophaned by Sacrifices to Idols: Our Habitations are become ruinous heaps: No Quality, Age, or Sex, priviledged from Maſſacres and lingring Deaths, by being robbed, ſtript naked, and ſo expoſed to cold and ſamine. The famiſhed Infants of murdered Parents ſwarm in our Streets, and for want of food periſh before our Faces,</hi> &amp;c. <hi>And all this cruelty that is exerciſed upon us, we know not for what cauſe, offence, or ſeeming provocation it is inflicted upon us ſin excepted ſaving that we were</hi> Proteſtants, <hi>&amp;c. We can make it manifeſt, that the depopulations in this Province of</hi> Murther, <hi>do well near equal thoſe of the whole Kingdom,</hi> &amp;c.</p>
+            <p>And thus in part you have heard of the mercileſs Cruelties which the bloody <hi>Iriſh</hi> Papiſts ex<g ref="char:EOLhyphen"/>erciſed towards the <hi>Proteſtants.</hi> Let us now conſider, at leaſt ſome of Gods Judgments upon the <hi>Iriſh,</hi> whereby he hath not left the innocent Blood of his Servants to be altogether unrevenged.</p>
+            <p>Theſe bloody Hell-hounds, themſelves confeſſed, <hi>That the Ghoſt of divers of the</hi> Proteſtants <hi>which they had drowned at</hi> Portendown-Bridge, <hi>were daily ſeen to walk upon the River; ſometimes ſinging Pſalms; ſometimes brandiſhing naked Swords; ſometimes ſhreaking in a moſt hideous and fear<g ref="char:EOLhyphen"/>ful manner.</hi> So that many of the <hi>Popiſh Iriſh</hi> which dwelt near thereabouts, being affrighted herewith, were forced to remove their Habitations farther off into the Country. <hi>Catherine Cook</hi> teſtified upon Oath, <hi>That when the</hi> Iriſh <hi>had barbarouſly drowned One hundred and eighty</hi> Proteſtants, <hi>Men, Women, and Children at</hi> Portendown Bridge, <hi>about nine Days after, ſhe ſaw the apparition of a Man bolt-upright in the River, ſtanding breaſt-high, with his hands lifted up to Heaven; and continued in that poſture from</hi> December <hi>to the end of</hi> Lent, <hi>at which time ſome of the</hi>
+               <pb n="7" facs="tcp:101441:5"/>Engliſh <hi>Army paſſing that way, ſaw it alſo; after which it vaniſhed away.</hi>
+            </p>
+            <p>
+               <hi>Elizabeth Price,</hi> teſtified upon Oath, <hi>That ſhe and other Women, whoſe Husbands Children were drowned in that place, hearing of thoſe Apparitions, went thither one Evening, at which time they ſaw one like a Woman riſe out of the River breaſt-high, her Hair hanging down, which with her Skin, was as white as Snow, often crying out,</hi> Revenge, Revenge, Revenge, <hi>which ſo affrighted them that they went away.</hi>
+            </p>
+            <div type="part">
+               <head>A View of the <hi>Spaniſh</hi> Inquiſition, and the Torments uſed towards ſuch as fall into their Mercileſs Hands.</head>
+               <p>THis Inquiſition was Erected by King <hi>Ferdinand</hi> of <hi>Spain,</hi> when he Conquered <hi>Granado,</hi> of a long time poſſeſſed by the <hi>Moors,</hi> and <hi>Jews,</hi> and deſign'd to oblige them to confeſs the Chriſtian Faith; but was ſoon (at the Inſtigation of the Pope and his Clergy) turned againſt the true Profeſſors of the Goſpel. The manner is, as ſoon as any Information is given in, to cite the Party, who dares not refuſe to come; or if he fly, they have their Scouts to find him out: When he is come, they wheadle him to make him accuſe himſelf, pretending they are ignorant of the Cauſe of his coming; in which Cauſe, to deny, he knows is the beſt; otherwiſe, they ſend him to Priſon and Triumph, they have what to accuſe him out of his own Mouth: Or, if he denies, one or other ſteps up and accuſes him, then is he ſent to Priſon in a dark Dungeon ſtrictly ex<g ref="char:EOLhyphen"/>amined: When if he comply not with all their Demands, they put him to the Rack: The firſt Torture they uſe, is the Pulley, when binding Hands and Thumbs, and hanging heavy Weights at his Feet, they draw him up, and then ſuddenly ſuffering him to ſink half way, with the Jerk, diſlocate all his Joints: When he cryes out, the Lords Inquiſitors roars as loud, calling him Heretick Dog; or if he call upon Chriſt, they revile him, bidding him let Chriſt alone, and tell the Truth. When they have tortured him a long while, they demand of the Tormentor (who is dreſſed up in black <hi>Canvis,</hi> like a Devil) if he has his other Torturing Engines ready, to which he replyes <hi>No.</hi> Then they bid him get them againſt to morrow, tel<g ref="char:EOLhyphen"/>ling the Priſoner, if he recant not, all that he has ſuffered, is but a Flea-biting to what he muſt feel, when three daies after they torture him again upon a Wheel or Roaler, or by laying him in a Trough, pour Water down his Throat, driving before it a Rag, at the pulling out of which, a great quantity of Blood follows: They likewiſe anoint their Feet with Lard, and ſet them on hot Irons, and ſtretch them on a Rack; put lighted Torches to their Arm<g ref="char:EOLhyphen"/>pits: Nor do they ſpare Matrons or Virgins, ſtripping them ſtark naked: And if at twice Racking they recant not, then they are burnt. And thus a young <hi>Engliſh</hi> Gentleman was ſerved, for throwing down the Hoſt, as the Prieſts were carrying it through the Streets of <hi>Rome,</hi> whilſt the ignorant Vulgar kneeled as it paſſed, and Worſhipped it; he at the ſame time ſay<g ref="char:EOLhyphen"/>ing, <hi>Ah Wretches that you are! Do you Worſhip a Morſel of Bread?</hi>
+               </p>
+               <p>And ſo much of Popiſh Cruelties. From which, the Lord deliver all ſuch as Worſhip Him in Spirit and in Truth.</p>
+               <p>
+                  <hi>Theſe Particulars, with many more, were Atteſted, before the Commiſſioners appointed for that purpoſe.</hi>
+               </p>
+               <p>See more of ſuch Cruelties in <hi>Clark</hi>'s <hi>Martirology.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Rowland Reynolds,</hi> 1689.</p>
+         </div>
+         <div type="illustrations">
+            <pb facs="tcp:101441:6"/>
+            <p>
+               <figure>
+                  <head>The <hi>Spaniſh Inquiſition.</hi>
+                  </head>
+                  <figDesc>depictions of tortures during the Spanish Inquisition</figDesc>
+                  <p>
+                     <figure>
+                        <head>One Burned for throwing down the Hoſt.</head>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <head>Some tortured in the Inquiſition.</head>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <head>Others Rack'd in the Inquiſition.</head>
+                     </figure>
+                  </p>
+               </figure>
+            </p>
+            <pb facs="tcp:101441:6"/>
+         </div>
+      </back>
+   </text>
+</TEI>
